@@ -7,6 +7,6 @@
 [![codewars](https://www.codewars.com/users/HOLDAR123/badges/large)](https://www.codewars.com/users/HOLDAR123)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HOLDAR123&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HOLDAR123&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HOLDAR123&theme=tokyonight&hide_border=false)
 
 
