@@ -1,6 +1,7 @@
 # INFO
 # 💫 About Me:
-`My name`s Timur  I`m Full-Stack Developer`
+`My name is Timur`
+`I am a Full-Stack-Developer` 
 
 
 ## 🌐 Socials:
