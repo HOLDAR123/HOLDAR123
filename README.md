@@ -1,6 +1,6 @@
 # INFO
 # 💫 About Me:
-My name`s Timur I`m a WebDeveloper more precisely Full-Stack
+My name`s Timur Im Full-Stack Developer
 
 
 ## 🌐 Socials:
