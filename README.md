@@ -11,15 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HOLDAR123&theme=tokyonight&hide_border=false)<br/>
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HOLDAR123&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HOLDAR123&icon=5&color=1)](https://visitcount.itsvg.in)
