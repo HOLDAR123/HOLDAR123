@@ -1,6 +1,6 @@
 # INFO
 # 💫 About Me:
-My name`s Timur I`m a WebDeveloper more precisely Full-Stack<br>I use a lot of techonologies:<br>Front-end:<br>Vue.js<br>Next.js<br>React<br>Back-end:<br>Asp.net<br>Koa.js<br>Express.js<br>Laravel
+My name`s Timur I`m a WebDeveloper more precisely Full-Stack
 
 
 ## 🌐 Socials:
